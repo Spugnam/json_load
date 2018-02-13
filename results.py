@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 """
-Convert JM's JSON (with return carriage) into csv format for psql copy command
+Convert JSON (with return carriage) into csv format for psql copy command
 """
 
 import csv
@@ -41,8 +41,8 @@ cols = ['lastopenedat', 'objectid', 'appname', 'email', 'localeidentifier',
         'devicetype', 'timezone', 'installationid', 'devicetoken', 'latitude',
         'longitude']
 
-outputfile = '/Volumes/G-DRIVE mobile USB-C/JM_Truelle/Files/_Installation.csv'
-inputfile = '/Volumes/G-DRIVE mobile USB-C/JM_Truelle/Files/_Installation.json'
+outputfile =  # input file
+inputfile =  # input file
 
 counter = 0
 
