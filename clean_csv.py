@@ -9,8 +9,8 @@ CONTEXT:  COPY tmp_table, line 14037, column latitude: "1.0235998427713398e-306"
 import csv
 
 
-inputfile = '/Volumes/G-DRIVE mobile USB-C/JM_Truelle/Files/Installation_small_err.csv'   # noqa
-outputfile = '/Volumes/G-DRIVE mobile USB-C/JM_Truelle/Files/Installation_small_cleaned_err.csv'  # noqa
+inputfile =  # input file
+outputfile =  # output file
 
 counter = 0
 
