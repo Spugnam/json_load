@@ -8,7 +8,7 @@ with open('./config.json') as f:
 # test copy from table results to csv - works
 # note: no headers
 
-file_path = '/Volumes/G-DRIVE mobile USB-C/JM_Truelle/Files/_Installation_cleaned.csv'  # noqa
+file_path =   # file path
 f = open(file_path, 'r')
 
 command_tmp = (
